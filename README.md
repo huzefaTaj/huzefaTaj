@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Python,
 - 🌱 I’m currently learning ReactJs,
 - 📫 How to reach me: tajhuzefa91@gmail.com,
-- 💬 [Portfolio](https://huzefatajportfolio.herokuapp.com/)
+- 💬 [Portfolio](https://huzefaportfolio.pythonanywhere.com/)
 <!--
 **huzefaTaj/huzefaTaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
