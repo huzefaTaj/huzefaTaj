@@ -4,10 +4,8 @@
 <img src='https://github-readme-stats.vercel.app/api?username=huzefaTaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
 
-- 🔭 I’m currently working on Python,
-- 🌱 I’m currently learning ReactJs,
-- 📫 How to reach me: tajhuzefa91@gmail.com,
-- 💬 [Portfolio](https://huzefaportfolio.pythonanywhere.com/)
+- 🔭 I’m currently working as a software engineer,
+- 📫 [Portfolio](https://huzefaportfolio.pythonanywhere.com/)
 <!--
 **huzefaTaj/huzefaTaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
