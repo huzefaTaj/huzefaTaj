@@ -1,11 +1,22 @@
 ### Hello I'm Huzefa Taj 👋
 
-
-<img src='https://github-readme-stats.vercel.app/api?username=huzefaTaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+![giphy](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
 
 
 - 🔭 I’m currently working as a software engineer,
-- 📫 [Portfolio](https://huzefaportfolio.pythonanywhere.com/)
+
+
+- 👉🏻 Check my Portfolio [PortfolioLink](https://huzefaportfolio.pythonanywhere.com/)
+
+
+- 🌱 I’m currently learning **Next.js & AWS**
+
+### GitHub State:
+
+![Huzefa Taj GitHub stats](https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true)
+
+
+
 <!--
 **huzefaTaj/huzefaTaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Programming Language State:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefaTaj&hide_progress=true)
