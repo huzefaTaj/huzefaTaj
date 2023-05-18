@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a software engineer,
 
 
-- 👉🏻 Check my Portfolio [PortfolioLink](https://huzefaportfolio.pythonanywhere.com/)
+- 👉🏻 Check my Portfolio [**PortfolioLink**](https://huzefaportfolio.pythonanywhere.com/)
 
 
 - 🌱 I’m currently learning **Next.js & AWS**
