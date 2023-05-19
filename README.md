@@ -1,6 +1,6 @@
 ### Hello I'm Huzefa Taj 👋
 
-![giphy](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+![giphy](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 
 - 🔭 I’m currently working as a software engineer,
