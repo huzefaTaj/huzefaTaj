@@ -1,15 +1,13 @@
-### Hello I'm Huzefa Taj 👋  ![](https://komarev.com/ghpvc/?username=huzefaTaj&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/huzefaTaj) ![GitHub Sponsor](https://img.shields.io/github/sponsors/huzefaTaj?label=Sponsor&logo=GitHub)
-
-![giphy](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
-
-
-- 🔭 I’m currently working as a software engineer,
+### Hello, I'm Huzefa Taj 👋  ![](https://komarev.com/ghpvc/?username=huzefaTaj&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/huzefaTaj) ![GitHub Sponsor](https://img.shields.io/github/sponsors/huzefaTaj?label=Sponsor&logo=GitHub)
+Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Software Engineer, and I love to work on robust technologies.
+<hr/>
+<img align="right" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="500" height="320" />
 
 
-- 👉🏻 Check my Portfolio [**PortfolioLink**](https://huzefaportfolio.pythonanywhere.com/)
-
-
-- 🌱 I’m currently learning **Next.js & AWS**
+### Personal goals
+- 🔭  I’m currently exploring new things in technology.
+- 👉🏻  I love to work as a full-stack developer.
+- 🌱 I'm looking for more open-source projects to contribute to.
 
 
 ### 🧰 Languages and Tools
@@ -32,7 +30,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" alt="latex" width="40" height="40"/>
 </p>
 
-
 ### :octocat: Github Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true&theme=radical" alt="huzefaTaj" width="480" height="180" />
@@ -45,3 +42,4 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://www.linkedin.com/in/huzefa-taj-5554631b5/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Huzefa" /></a>
+<a href="https://huzefaportfolio.pythonanywhere.com/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=portfolio&logoColor=Black" alt="Huzefa"  width="100" height="30" /></a>
