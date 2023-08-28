@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="sql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/gulp/gulp.png" alt="java" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql" width="40" height="40"/>
   <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> 
   <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
