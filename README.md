@@ -11,26 +11,16 @@
 
 - 🌱 I’m currently learning **Next.js & AWS**
 
-### GitHub State:
 
-![Huzefa Taj GitHub stats](https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true)
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true&theme=radical" alt="huzefaTaj" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefaTaj&layout=compact&hide=html&theme=radical" alt="huzefaTaj"/>
+</p>
 
 
 
-<!--
-**huzefaTaj/huzefaTaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Programming Language State:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefaTaj&hide_progress=true)
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://www.linkedin.com/in/huzefa-taj-5554631b5/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Huzefa" /></a>
