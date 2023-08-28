@@ -32,7 +32,7 @@ Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Softw
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true&theme=radical" alt="huzefaTaj" width="480" height="180" />
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true&theme=radical" alt="huzefaTaj" width="480" height="180" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzefaTaj&layout=compact&hide=html&theme=radical" alt="huzefaTaj"/>
 </p>
 
