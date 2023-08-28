@@ -12,6 +12,26 @@
 - 🌱 I’m currently learning **Next.js & AWS**
 
 
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="php" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" alt="sql" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql" width="40" height="40"/>
+  <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> 
+  <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" alt="latex" width="40" height="40"/>
+</p>
+
+
 ### :octocat: Github Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=huzefaTaj&show_icons=true&theme=radical" alt="huzefaTaj" width="480" height="180" />
