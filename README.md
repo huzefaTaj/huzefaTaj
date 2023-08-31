@@ -1,4 +1,4 @@
-### Hello, I'm Huzefa Taj 👋  ![](https://komarev.com/ghpvc/?username=huzefaTaj&color=green&&style=flat)  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/huzefaTaj) ![GitHub Sponsor](https://img.shields.io/github/sponsors/huzefaTaj?label=Sponsor&logo=GitHub)
+### Hello, I'm Huzefa Taj 👋  ![](https://komarev.com/ghpvc/?username=huzefaTaj&color=green&&style=flat)  
 Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Software Engineer, and I love to work on robust technologies.
 <hr/>
 <img align="right" alt="GIF" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="500" height="320" />
