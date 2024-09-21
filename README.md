@@ -13,6 +13,8 @@ Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Softw
 ### 🧰 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="python" width="40" height="40"/> 
+  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJs" width="40" height="40"/>
