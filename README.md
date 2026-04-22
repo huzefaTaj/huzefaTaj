@@ -11,7 +11,7 @@ Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Softw
 
 
 ### 🧰 Languages and Tools
-<p align="left">
+<!-- <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="python" width="40" height="40"/> 
   <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="python" width="40" height="40"/> 
@@ -26,7 +26,7 @@ Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Softw
   <img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="40" height="40"/> 
   <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/latex/latex.png" alt="latex" width="40" height="40"/>
-</p>
+</p> -->
 
 ### :octocat: Github Statistics
 <p align="left">
@@ -39,5 +39,5 @@ Hi, I'm [Huzefa Taj](https://www.linkedin.com/in/huzefa-taj-5554631b5/), a Softw
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
-<a href="https://www.linkedin.com/in/huzefa-taj-5554631b5/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Huzefa" /></a>
+<a href="https://www.linkedin.com/in/huzefa-taj-5554631b5/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Huzefa" /></a></br></br>
 <a href="https://huzefadev.pythonanywhere.com/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=portfolio&logoColor=Black" alt="Huzefa"  width="100" height="30" /></a>
